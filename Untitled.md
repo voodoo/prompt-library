@@ -1,0 +1,2 @@
+
+This is a little chat about AI. How far it's come how far it's gonna go it's interesting that AI had put all their eggs in compute basket and really they should be putting them in a efficiency basket.
